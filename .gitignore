@@ -1,0 +1,15 @@
+# log files
+logs
+# sh files
+*.sh
+# csv result files
+*.csv
+# vscode settings
+.vscode
+# idea settings
+.idea
+# pycache
+nn/__pycache__
+utils/__pycache__
+# bert model
+save/mastodon/bert

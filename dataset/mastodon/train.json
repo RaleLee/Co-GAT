@@ -1,0 +1,5323 @@
+[
+ [
+  {
+   "utterance": "i cant get into enstars because my scouting luck is shit to none",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "pwease appreciate my son tsukasa <url>",
+   "sentiment": "+",
+   "act": "R"
+  }
+ ],
+ [
+  {
+   "utterance": "wow ,",
+   "sentiment": "+",
+   "act": "J"
+  },
+  {
+   "utterance": "has it really been almost 20 years since i moved out of california ? time flies .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "time flies when your not surrounded by the scum of north america ... aka californians ( for the most part )",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "5pm : shopping in lyon's biggest shopping center",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "6pm : protest against macron",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "this toot is full of dark bourgeois energy",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i invest in an icon ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "( it's a new mechanic . but i think innovation spread is appropriate for this country ... )",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "lemme blow your mind :p lay as a custom nationwith siberian frontier as a starting ideain north america",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "uh ...",
+   "sentiment": "*",
+   "act": "F"
+  },
+  {
+   "utterance": "let the colonies hit the floor <url>",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "whut .",
+   "sentiment": "*",
+   "act": "O"
+  }
+ ],
+ [
+  {
+   "utterance": "the shitposting is real",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "local tl ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "well , both federated and local lol like what is even going on",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "my home tl is active i'm not even looking at those .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "you gotta start following people who toot this late at night lol . it works .",
+   "sentiment": "+",
+   "act": "S"
+  },
+  {
+   "utterance": "yeah , i'll have to go around later and look for more likeminding people to follow",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "yeah , i mean this site is already super friendly ...",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "it is , like i haven't had even one asshole in my notes and that's just astounding",
+   "sentiment": "+",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "i'll try attack on titan . greg calls it the bananarama anime .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i really liked it a lot",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "so , all of us getting cross about twitter's terms and conditions /",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "do not track changes ,",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "remember you also need to take off the social media buttons on your blog .",
+   "sentiment": "-",
+   "act": "S"
+  },
+  {
+   "utterance": "like i forgot to .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "done ,",
+   "sentiment": "*",
+   "act": "A"
+  },
+  {
+   "utterance": "thanks for the reminder .",
+   "sentiment": "+",
+   "act": "T"
+  }
+ ],
+ [
+  {
+   "utterance": "someone draw a flying benis with a tail so i can call it a dragon .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "the german word for tail ( schwanz ) is usually used to refer to a benis",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "finally installed a #tox client .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "my tox id is attached if anyone wants to chat . :) 187fd39d85f480bd72de69518a9005e20085fe3239cea6fae202ed15edbf2e18f6ab3541348f",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "installed a toxclient on another machine .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "apparently , there's no support for multi-device identities in #tox ,",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "so i'm also available at the following tox id . a033e40c1b0efd3c350efb9317022b565d29fc2a3397c07bbb5ca75f15e1646bd35e5e91e26d",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i can't seem to find out anything about tox .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "is it like bitmessage ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "how does it work ?",
+   "sentiment": "*",
+   "act": "O"
+  }
+ ],
+ [
+  {
+   "utterance": "yes or no do i eat my last pint of ice cream tonight",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "u deserve it eat that mother cucker",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "im still in a vocaloid / utau phase sdfdsfs ... have been since fucjing 2007 ... but oh my god im not an embarrassing fan i swear",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "cant blame you , vocaloid is good",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i love it so much",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "whats your favorite song ? if thats alright for me to ask of course !",
+   "sentiment": "+",
+   "act": "O"
+  },
+  {
+   "utterance": "god thats so hard to answer cuz i have so many and love so many producers ; v ;",
+   "sentiment": "+",
+   "act": "W"
+  },
+  {
+   "utterance": "ahhhh ! ! !",
+   "sentiment": "+",
+   "act": "J"
+  },
+  {
+   "utterance": "but what about you ? ? ?",
+   "sentiment": "+",
+   "act": "O"
+  },
+  {
+   "utterance": "give me sec ,",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "ill link you to my number 1 !",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "ok ! ! !",
+   "sentiment": "+",
+   "act": "J"
+  },
+  {
+   "utterance": "also one song i can think of thats rly important to me is donut hole ! !",
+   "sentiment": "+",
+   "act": "W"
+  },
+  {
+   "utterance": "also i love donut hole ! ! you have good taste friend",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "is good ! ! !",
+   "sentiment": "+",
+   "act": "J"
+  },
+  {
+   "utterance": "and ahhh thank you ,",
+   "sentiment": "+",
+   "act": "T"
+  },
+  {
+   "utterance": "i love hachi's work ! ! !",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "almost done with the lineart .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "too bad i am extremely lazy and probably won't have this done for a few more days due to procrastination . #art #lovely #order <url>",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "hope you get around to it ,",
+   "sentiment": "+",
+   "act": "V"
+  },
+  {
+   "utterance": "it looks cute so far !",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "holy shit",
+   "sentiment": "+",
+   "act": "J"
+  },
+  {
+   "utterance": "my favorite toku themes are on my home timeline what a good day",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "whats ur top fav",
+   "sentiment": "+",
+   "act": "O"
+  },
+  {
+   "utterance": "( my top is probably if it counts , yoshiko and the key of evil spirits opening )",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "it's always hard to pick these kind of things , but i \" d have to say the kind of 90s action anime stylings of the first gobusters theme <url>",
+   "sentiment": "+",
+   "act": "W"
+  },
+  {
+   "utterance": "busters ready go is so tight ! ! ! it was my ringtone for yearrrrsss",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "this is w a mouse but this is my oc <url>",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i lobve them ..",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "thank u : ' ~ )",
+   "sentiment": "+",
+   "act": "T"
+  }
+ ],
+ [
+  {
+   "utterance": "im awake and i shouldn't be",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "same",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "fuck .",
+   "sentiment": "-",
+   "act": "J"
+  },
+  {
+   "utterance": "anyone manage to get back to sleep ?",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "i didn't ; - ;",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "is there a mastodon instance in tor ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "i'm guessing all the other servers would have to be using tor to interact with a . onion instance",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i'm working on that . i'll keep you posted",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "awesome , thanks !",
+   "sentiment": "+",
+   "act": "T"
+  },
+  {
+   "utterance": "i might need help admining the instance if you are interested . it should be up and running this weekend",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "may i nominate provenance by ann leckie for spooky book club when it comes out ?",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "i'm very down ... i haven't read any good sci fi in awhile",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "if you don't want to wait taiyo fujii writes great hard scifi . gene mapper has good depictions of post-internet technology and orbital cloud helped me sort out plot points in my big fiction work",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "there is tons of good scifi right now actually , maybe we can push this in next book club while awaiting providence",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "have you guys read the mangoverse series by shira glassman ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "i hadn't heard of it before , just looked it up .",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "is it good ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "it is lovely .",
+   "sentiment": "+",
+   "act": "W"
+  },
+  {
+   "utterance": "i'm designing knitting patterns to represent the main characters , that's how much i enjoy it .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "that's a recommendation fs , i will have a look ! now i have to try to attack my massive backlog not to mention finish our book club book 😅",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "actually this reminds me . have we all gotten a chance to read iain m banks ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "in my case , yes ,",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "all of it actually",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i'm agreement with cp . use of weapons i liked more than player of games though .",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "i think i like mostly any of them where he reins in his desire to write hundreds of pages about things that are very big blowing up very spectacularly",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "yeah that's fair .",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "i think i'm more interested in explorations of the culture than hard action",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i nearly forgot to put panties on today",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "oh i did not put panties on today",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "u are living my dream i am proud , b free",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i keep going back and forth between finding it super irritating and super funny .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "someone tell me how to feel !",
+   "sentiment": "-",
+   "act": "R"
+  },
+  {
+   "utterance": "on one hand , it seems petty . on the other hand , i experience a reflexive fear that commonly referring to the fediverse in the language of commoditization is the first step in it somehow becoming birdsite",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "this wouldn't have happened without a government",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i bet it wouldn't have happened without drumpf either !",
+   "sentiment": "*",
+   "act": "A"
+  },
+  {
+   "utterance": "drumpf is a government and therefor it is every man's duty to oppose him women can do , like , whatever man as in person with attached benis woman as in person with no benis whatsoever",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "what about feminine benis ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "it's sitll a benis",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "what the hap is fuckening",
+   "sentiment": "-",
+   "act": "O"
+  },
+  {
+   "utterance": "its 8am and im deciding if im ready to go to bed yet or not b )",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "other operating systems : \" don't say the fuck word ! \" windows 10 mobile : \" duck ? clearly you mean fuck . would you like to remove ' duck ' from your dictionary ? \"",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "the funny thing with this is the windows 10 desktop / tablet kbd is the exact opposite of this . it will . not . let you say fuck . you have to like manually change it back from \" duck \" several times and it won't add swears to the dictionary . it's bad",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "bad ! bad input method !",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "lol what if we live under a system that actively degrades our mental health in order to make us feel bad non-stop because that's the most effective way to make us buy things that promise happiness ( and work more in the process )",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "but how does recognition of this help ?",
+   "sentiment": "*",
+   "act": "O"
+  }
+ ],
+ [
+  {
+   "utterance": "sen are u sure",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "i may have spoken too soon",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "see ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "this happens when u think about it you fool",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "so instead of the nice predictable wlan 0 and eth 0 we have some completely random device names . thanks systemd .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "if you want the classic names back , you can simply add net.ifnames = 0 to the kernel commandline on your bootloader :)",
+   "sentiment": "*",
+   "act": "S"
+  },
+  {
+   "utterance": "that may be a better solution",
+   "sentiment": "+",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "you've all heard of fidget spinners , i'm sure .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "but have you considered that you may be a fidget sinner ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "hi , i'm greg , the new youth pastor",
+   "sentiment": "*",
+   "act": "H"
+  },
+  {
+   "utterance": "may i post this everywhere ?",
+   "sentiment": "*",
+   "act": "R"
+  }
+ ],
+ [
+  {
+   "utterance": "at least now i know what i need to play this morning to get me going : <url>",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "hell yeah ! i love the 45 x 40 performance .",
+   "sentiment": "+",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "should i mate or should i cinammon ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "definitely cinnamon .",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "couldn't install neither ... lack of support for my \" old \" radeon 6750 , at least in the live versions .",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "do you listen to any #podcast ? any suggestion ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "#teamhuman is great .",
+   "sentiment": "+",
+   "act": "W"
+  },
+  {
+   "utterance": "already on my subscription list ,",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "thank you matt",
+   "sentiment": "+",
+   "act": "T"
+  }
+ ],
+ [
+  {
+   "utterance": "i only rarely don't read a post that's behind a warning i know may trigger me . i am very curious",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "and also unconsciously self inflict pain on to myself",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "it's good when you get a choice and a moment to prepare , even if it barely helps .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "yeah you are right , i agree !",
+   "sentiment": "+",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "i'm getting back into ksp career mode and it's a lot of fun , especially with more difficulty settings on ( like plasma blackouts and g-force limits ) .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "do you play with usi ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "i highly recommend it . really awesome progression and added difficulty",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i never have ,",
+   "sentiment": "-",
+   "act": "D"
+  },
+  {
+   "utterance": "i'll definitely check it out !",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "what other mods do you use ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "my 1.2 . 2 save is very heavily modded , but a short list is all of nertea's mods , usi , epl , opm , dmagic orbital science , airplanes plus , and mk2 / mk3 expansion .",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "where are y'all from / at ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "indiana unfortunately 😔",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "lol why unfortunately ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "because it sucks . our state has the largest percentage of t * * * p supporters and there's literally nothing here lol",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "i've seen that the midwest is even tighter with trump than the south itself ,",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "that right ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "yes and they flaunt it .",
+   "sentiment": "*",
+   "act": "A"
+  },
+  {
+   "utterance": "it's because the midwest really isn't tied to any major cosmopolitan city except chicago , detroit and st . louis .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "most of the midwest is rural and the rural population is uneducated redneck white folk .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "so they're still rocking with him ? after all that's happened since he took office ?",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "yes and on top of that , they refuse any factual evidence against him because their entire lineage are republican loyalists .",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "aren't they doubting him though ? like , he isn't your traditional republican .",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "not at all . even though he isn't traditional , he still on the side of the gop and to them , that's really all that matters .",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "so gop sympathizers in the midwest are some of those people who equate liberalism and dems to the left huh ?",
+   "sentiment": "*",
+   "act": "Q"
+  }
+ ],
+ [
+  {
+   "utterance": "i want that video games shirt",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "it's more pure than just a plain black shirt tbh",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "so instead of the nice predictable wlan 0 and eth 0 we have some completely random device names . thanks systemd .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "... but you aren't supposed to have to know about such details , since everything is being automated for your convenience by the system ( d ) .",
+   "sentiment": "+",
+   "act": "D"
+  },
+  {
+   "utterance": "i can't decide if your message is first degree ...",
+   "sentiment": "-",
+   "act": "D"
+  }
+ ],
+ [
+  {
+   "utterance": "i've mentioned this system before , but i can't get over how awesome the holborn series lookedthis is the 6100 and 9120 ( pic with the lady ) and it's so fallout !",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "wasn't this also shown in the soylent green movie ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "good eye ! but it was a floor standing computer , not a desktop",
+   "sentiment": "+",
+   "act": "W"
+  },
+  {
+   "utterance": "jeez , that was fast .",
+   "sentiment": "+",
+   "act": "J"
+  },
+  {
+   "utterance": "so possibly a set piece to look futuristic based on the desktop one .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "or do you somehow also happen to know that it was an actual computer ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "ah , i was right ! it definitely was the arcade game . here's more info on the exact model they redressed <url>",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "that is wonderful . i love how they stuck a full tv in that cabinet instead of just the crt",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "it's a pretty old trick , but considering the tech of the day , it was very cleveralso , \" modern \" series were doing the same thinghere's a scene from startrek voyager where you can clearly see the mouse cursor in the \" lcars \" . didn't know they still had mouse cursors in 2371 ;)",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "especially on a touch screen ,",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "like why do you even need that ? ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "definitely something for the blooper reel . everything in startrek was touch or voice :p",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "so , every day of the past week i woke up at around 4:35 in the morning and felt pretty awake but then i always went back to sleep and when i try to get up at 7 i feel like there will never be enough sleep on the planet for me.maybe i should start my day at 4.35 ?",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "could you wake at 4:35 and take a siesta after lunch ? or maybe the two sleep system might work for you .",
+   "sentiment": "*",
+   "act": "S"
+  },
+  {
+   "utterance": "there are reports that the single sleep mode is a recent invention . a few short centuries ago .",
+   "sentiment": "*",
+   "act": "S"
+  }
+ ],
+ [
+  {
+   "utterance": "when i took german first year of college my professor had us watch the gummibär song and wrote on the syllabus \" learning goals : learn to say ' i am a gummy bear ' \"",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "oh god ,",
+   "sentiment": "*",
+   "act": "J"
+  },
+  {
+   "utterance": "flashbacks",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "gay rights",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "1000000 boosts",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "are you from berenstein universe or berenstain universe ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "i definitely grew up in a berenstein bears universe , and i'm not sure when i transitioned into berenstain universe",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "but i don't like it here . i want to go back .",
+   "sentiment": "-",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "my internet cut out last night because of a storm .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "it's back now .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "ugh weather > : c",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "good morning ( ^ _ ^ )",
+   "sentiment": "*",
+   "act": "H"
+  },
+  {
+   "utterance": "morning !",
+   "sentiment": "*",
+   "act": "H"
+  }
+ ],
+ [
+  {
+   "utterance": "why ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "its a longf story",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "listening to this on a loop - <url>",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "you been watching fargo by any chance ?",
+   "sentiment": "*",
+   "act": "Q"
+  }
+ ],
+ [
+  {
+   "utterance": "do yall bite into popsicles / ice cream or am i the only one",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "i always bite ice cream uuhhhh",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "i hate this app",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "then why you're here",
+   "sentiment": "*",
+   "act": "O"
+  }
+ ],
+ [
+  {
+   "utterance": "a simply astonishing number of \" classic \" rock songs from the 60s / 70s /8 0s are blatantly transphobic , homophobic , racist , or sexist . it's no wonder that white baby boomer men love \" classic \" rock so much .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "ok , i'll switch to rap ( which is never sexist or homophobic ) .",
+   "sentiment": "+",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "i'm the only one seeing thoses ? <url>",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "i had that same moment once ;) it was in , i think , hyouka .",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "it is not enough that i must be good , i must be better than you . ;)",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "oh i see how it is > : 3",
+   "sentiment": "*",
+   "act": "F"
+  }
+ ],
+ [
+  {
+   "utterance": "other operating systems : \" don't say the fuck word ! \" windows 10 mobile : \" duck ? clearly you mean fuck . would you like to remove ' duck ' from your dictionary ? \"",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "the funny thing with this is the windows 10 desktop / tablet kbd is the exact opposite of this . it will . not . let you say fuck . you have to like manually change it back from \" duck \" several times and it won't add swears to the dictionary . it's bad",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "if i'm being honest , i almost never say duck , and i say fuck way too much .",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i actually like pulse 🙃",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "per-process sound control is a cool feature , but on the other hand , not crashing randomly is a pretty big plus on the side of alsa",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "this is also true ,",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "but i haven't had that big of an issue with pulse crashing ... also it's nice to have more than one application play audio at once :p",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i have literally not spoken a word on social media in like 2 weeks",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i dont have anything to contribute to society",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "just be yourself darling , youre naturally funny and so adorable !",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "pleroma is the dark souls of ostatus servers .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "not optimized and hard to use ?",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "yeah .",
+   "sentiment": "-",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "wow this has been extremely fun but i gotta get my butt to bed .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i have to not spend all my work day tomorrow on this site .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "please don't forget me :(",
+   "sentiment": "-",
+   "act": "R"
+  },
+  {
+   "utterance": "good night !",
+   "sentiment": "*",
+   "act": "H"
+  }
+ ],
+ [
+  {
+   "utterance": "today i biked past a car with eyelashes glued on its front lights",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "theres a car near mine with is dressed as a dog",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "it seems to be really hot in europe .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "here it's 20 degrees , really nice ( but it's already evening )",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "we are burning 🔥 🔥",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "hope you survive it ( or even enjoy it ) .",
+   "sentiment": "-",
+   "act": "V"
+  },
+  {
+   "utterance": "it's weird becaues i always think of europe as very cold in the summers somehow",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "we have a lot of variation depending where you are in europe",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "^ ^ my boyfriend's family live in hungary where the winter is extreme and the summer hotter than in france . but yeah we're actually in a heat wave period ,",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i hope it gonna be less harsh next week",
+   "sentiment": "-",
+   "act": "V"
+  },
+  {
+   "utterance": "hopefully it will cool off ,",
+   "sentiment": "-",
+   "act": "V"
+  },
+  {
+   "utterance": "that sounds really tiring 😨",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "today's gamedev code progress : destroying cars no longer counts as murder .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "what if the car is a transformer ? : o",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "that ... is a good question . that'd make the situation more complex . : 3",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "one more reason to make this stick and try it ;)",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i will keep you posted",
+   "sentiment": "*",
+   "act": "E"
+  },
+  {
+   "utterance": "godspeed ! seems like making the stick is often the hardest part :) . too bad they don't give them out like aol cd's back in the day ...",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "usb stick should be ready ready but ... my win 10 laptop doesn't let me go on boot setup . i tried pressing esc , f2 , f12 . no response .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "what should i do ? :-(",
+   "sentiment": "-",
+   "act": "O"
+  },
+  {
+   "utterance": "from the looks of it , it might be secure boot getting in your way ... this may or may not be helpful : <url>",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "you , a good person : can formulate their feelings caused by bpd perfectlyme , banging on pots and pans with spoons and screaming as loud as i can : bpd ! bpd ! bpd ! bpd !",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "im screaming",
+   "sentiment": "*",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "\" hey man let's watch hentai \" u n c om f o r t a b l e",
+   "sentiment": "+",
+   "act": "S"
+  },
+  {
+   "utterance": "what about watching a hen and a tie",
+   "sentiment": "*",
+   "act": "D"
+  }
+ ],
+ [
+  {
+   "utterance": "microsoft loves linux ?",
+   "sentiment": "+",
+   "act": "Q"
+  },
+  {
+   "utterance": "ya .",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "a bunch of lip service . no mention of linux in new skype : <url>",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "oh , no , they / do / love linux ! they just think that it should stay in its place as an amazing server os . =( =( =(",
+   "sentiment": "-",
+   "act": "D"
+  }
+ ],
+ [
+  {
+   "utterance": "does anyone ever feel anxious and empty at the same time ? 😞",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "probablybut not to the degree which u do lvl 😦",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "does anyone ever feel anxious and empty at the same time ? 😞",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "pretty regularly tbh",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "i feel fucking crazy right now 😞",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "ready for the alien invasion .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "anything's better than this .",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "holy shit",
+   "sentiment": "+",
+   "act": "J"
+  },
+  {
+   "utterance": "my favorite toku themes are on my home timeline what a good day",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "whats ur top fav",
+   "sentiment": "+",
+   "act": "O"
+  },
+  {
+   "utterance": "( my top is probably if it counts , yoshiko and the key of evil spirits opening )",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "my favorite ... this is hard .",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "really depends on mood with me . if i want something energetic , or something moody ... like , sometimes only the decade theme will do",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "yeah , and other services too ,",
+   "sentiment": "*",
+   "act": "A"
+  },
+  {
+   "utterance": "i dread every time i open whatsapp on my phone . having anxiety about everything is some tiresome business .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "anxiety , you say , what is this aaaanxieeetyyy ... 😅",
+   "sentiment": "-",
+   "act": "O"
+  }
+ ],
+ [
+  {
+   "utterance": "spaghetti code is free , the backend as a notice and it just came across that way as a one or entity . all creation occurs between opposites . academic oneism destroys + 0 - brain .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "spacecube ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "is this moonbot or lambadabot ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "cool aws loads a youtube video in your aws console , totally fine with offsite javascript embedding in my aws console",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "that feels more familiar .",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "hi mastodon",
+   "sentiment": "*",
+   "act": "H"
+  },
+  {
+   "utterance": "just wanted to let yall know i just got asked out by the best girl ever and i love her and im gay",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "nice congrats",
+   "sentiment": "+",
+   "act": "M"
+  },
+  {
+   "utterance": "thank u",
+   "sentiment": "+",
+   "act": "T"
+  }
+ ],
+ [
+  {
+   "utterance": "i'm going to start refering to marxism-leninism and trotskyism as \" all the old crap of the thirties \" <url>",
+   "sentiment": "*",
+   "act": "E"
+  },
+  {
+   "utterance": "extra points if you do it in the old timey radio voice with a trans-atlantic accent .",
+   "sentiment": "+",
+   "act": "S"
+  }
+ ],
+ [
+  {
+   "utterance": "random anxiety flareup for no reason again .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "whee.where can i go exchange this brain for a replacement ?",
+   "sentiment": "-",
+   "act": "O"
+  },
+  {
+   "utterance": "if you find a good shop , let me know ; w ; * flappy squeeze offer * > w <",
+   "sentiment": "+",
+   "act": "R"
+  }
+ ],
+ [
+  {
+   "utterance": "do yall bite into popsicles / ice cream or am i the only one",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "hey what the fuck ? ? ? dont fucking do that ? ? ?",
+   "sentiment": "-",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "currently trying out this tox thing . my tox id : 4f059bdc1c0218da220793731198f0ba37471be2970ce68fb7aa8279501e965c48bbce91a8ca",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "hmm , what is it about ? i mean , tox thing ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "found their blog",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "but can't find much information ( yet ) .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "another im . check out <url>",
+   "sentiment": "*",
+   "act": "R"
+  }
+ ],
+ [
+  {
+   "utterance": "psa : your daily allowance of ~ awoo ~ has been resetyour new balance is : ∞ #publicserviceawoo",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "what if i'm unlicensed tho what is the awoo allowance penalty ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "see , thats the best part , you actually don't need a license !",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "whaddaya think this is ? the fcc ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "idk i heard other people say there were penalties for unlicensed awoos",
+   "sentiment": "-",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "you're obviously running two identities right here ;",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "are they divergent ? is one a clone of the other ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "i never toot onto the cybre identity , and i run a cross-posting script to put things there that i've tooted on my main identity .",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "i may , one day , retire that once completely.cc : <mention>",
+   "sentiment": "*",
+   "act": "E"
+  },
+  {
+   "utterance": "i don't often look at the local timeline on cybre -",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i may yet make sure i do that semi-regularly.cc : <mention>",
+   "sentiment": "*",
+   "act": "E"
+  }
+ ],
+ [
+  {
+   "utterance": "u know that thing where you exist and then a body part starts hurting",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "i know that thing .",
+   "sentiment": "-",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "fuck , i forgot devil daggers exists ...",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "now that's a goddamn video game",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i have been testing a hypothesis that the sound design in that game is so good that you could play it blindfolded",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "it's a lot harder to do brand-building on here , especially with my lower follower count .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "heres my advice : do a bunch of really long posts and people will share them , think just out of politeness for your hard work",
+   "sentiment": "+",
+   "act": "R"
+  }
+ ],
+ [
+  {
+   "utterance": "i can make you warm and sticky ;d",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "yr thirstposting already has babe",
+   "sentiment": "*",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "so all christian churches in england are rushing to condemn the terrorist attack last night and distance themselves from it , yeah ? i mean , they bloody well should . so-called ' mainstream ' christianity hardly ever preaches about getting along with people of different faiths .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "good point . . .",
+   "sentiment": "-",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "went to the grocery store and bought a bag of carrots , now consider if you will that people took the time to design , print , and apply an ingredients label for that bag.ingredients/ingrédients : carrots / carottes 😔",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i love that there's the french translation too .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i want to believe that whoever designed it was an anglo and wasn't entirely comfortable in their high school french , so they hired a translator .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i hope so ! ! those are the real job creators .",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "how do people even pay these prices for amazon or google cloud",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "with your data i think",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "but you're still paying a lot of money for the instances themselves ...",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i mean a lot of companies run on aws who use your data to make money",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "oh , i see . yeah ...",
+   "sentiment": "*",
+   "act": "A"
+  },
+  {
+   "utterance": "the target market is enterprise customers it seems to me you pay a premium for all of the fancy cloud shit",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "apparently , because the alternative is paying even more money to hire someone who knows anything about syadmin and that's not hipster enough",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "does anyone have recommendations for plants suitable for an office desk ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "do you have natural or artificial light ?",
+   "sentiment": "*",
+   "act": "O"
+  }
+ ],
+ [
+  {
+   "utterance": "first house i buy , i'm gonna spend a few months researching flag makers . and find someone to make me a black flag to hang on the house .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "like this deep velvet , smokey fading , sucking void of a black . a black that'll almost completely consume if you stared long enough",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "weather resistant coating . i'm about to drop some cash on a flag .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "in about 5-10 years",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i'd like it if i could change size of the columns ..",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "you could do that with the stylish browser extension ( firefox , chrome , opera ) , setting up a rule for your instance.hit me up if you need assistance .",
+   "sentiment": "*",
+   "act": "S"
+  },
+  {
+   "utterance": "thanks for the tip , good sir !",
+   "sentiment": "+",
+   "act": "T"
+  }
+ ],
+ [
+  {
+   "utterance": "just ate a bunch of garlic if anyone feels like kissing me",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "tasty !",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "this is like . a nitpick",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "but why do people write depressed characters as only listening to super emo music like catch my depressed ass listening to carly rae on repeat",
+   "sentiment": "-",
+   "act": "O"
+  },
+  {
+   "utterance": "ok like when i'm feeling real emo i jam to fetus taylor swift it's a thing",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "🎶 i am gonna make it through this year / if it kills me 🎶",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i was just listening to the sunset tree !",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i have yet to listen through the album ; somebody just recced that song to me before the weekend . do you like the sunset tree ? : 0",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i love it ! it can get heavy and has some themes about abuse , though , so definitely a heads-up there .",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "admittedly , those themes are why i like it so much , haha . i use it to deal with things . it's a really quality album .",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "uh what's this federated timeline compared to the other one",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "someone on an instance follows someone on another instance , the account from the second instance's toots become visible to the first instance through the federation timeline",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "ohhhh thank you ! !",
+   "sentiment": "+",
+   "act": "T"
+  },
+  {
+   "utterance": "its actually all of the toots from the second instance , not just the account that was followed . so its basically seeing the local timeline along with the timelines of other instances",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "whats up witch town twitter is even worse now",
+   "sentiment": "-",
+   "act": "O"
+  },
+  {
+   "utterance": "eeyup !",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "and what's up ... not much of anything :}",
+   "sentiment": "-",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "i want money without having to revealing my birthname or doxxing myself is thag too much to ask for",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "we all do .",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "let me know if you figure it out , please ! !",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "bitcoin maybe ? 🤔",
+   "sentiment": "*",
+   "act": "S"
+  },
+  {
+   "utterance": "getting the money isn't an issue , it's what you do to get the money that is more the issue .",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i upgraded from jessie to stretch yesterday but i got a couple of errors by doing so . now i decided to install stretch directly from a small image since my usb stick doesn't have enough space , but i got stuck with the mirrors .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "fresh install is usually good . i don't have much data in my computer so i can format the hd always clean",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i do not have much data as well ,",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "but i cannot afford to format my hd because i also have windows installed .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "fresh installs are always the best choice .",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "morning started with driving mum to the er for an eye thing . so restful . such a good omen for a focused and productive week .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i hope she's okay .",
+   "sentiment": "+",
+   "act": "V"
+  },
+  {
+   "utterance": "seems to be . eye drops to the rescue .",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "this one guy in the katar challenge is wearing a kimono ( he is not japanese nor inherited a japanese style , near as we can tell )",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "and it's slowly killing us .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "he made a very good katar bu-oh my god another one",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "that's some good compression <url>",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "is it visually comparable ?",
+   "sentiment": "*",
+   "act": "Q"
+  }
+ ],
+ [
+  {
+   "utterance": "at least now i know what i need to play this morning to get me going : <url>",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "aaaa i got cheated the clip's bad",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "fine , i'll go to a reliable fallbackhttps :/ / www.youtube.com/watch?v=enhhros3rme",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "im a big fan of spinning wheel myself",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "this is a rare selfie ! looking good hun .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "enjoy your day ! cheers !",
+   "sentiment": "+",
+   "act": "V"
+  },
+  {
+   "utterance": "really ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "i feel like i post too often hehe . maybe it's been awhile and i've just been taking a lot of them .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "tbh - only the second selfie i have seen from you in my almost 10 months of being on the fediverse lol .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "it is pretty interesting to see the faces behind the names on here .",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "any spanish , basque or english talking #gamedev wants my collaboration ? i want to learn a little bit about #gamedevi have few skills , but i'm a good boy .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i meddle with #gamedev from time to time , but probably have too few skills for stuff like collabs :/",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "im medicated",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "how are you",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "also medicated .",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "🎶 i am gonna make it through this year / if it kills me 🎶",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i was just listening to the sunset tree !",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i have yet to listen through the album ; somebody just recced that song to me before the weekend .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "do you like the sunset tree ? : 0",
+   "sentiment": "+",
+   "act": "Q"
+  }
+ ],
+ [
+  {
+   "utterance": "has ears as well",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i wish i could live my life that well",
+   "sentiment": "+",
+   "act": "V"
+  }
+ ],
+ [
+  {
+   "utterance": "i'm on a naruto binge currently , and i just can't stop . 💛",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "me with jjba",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "honestly , what would life be without anime ? !",
+   "sentiment": "+",
+   "act": "O"
+  }
+ ],
+ [
+  {
+   "utterance": "contrary to popular belief , it was tesla , not edison , who invented electricity .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "\" invented \" ? ? o_o",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "look it up . technically , it had been invented by an indian mathematician in the fourth century , but it had been lost until tesla re-invented it . #badscience",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "quick , let me put on my hair mask and continue to watch chewing gum . going to go grab my water bottle and everything .",
+   "sentiment": "*",
+   "act": "E"
+  },
+  {
+   "utterance": "is chewing gum good ?",
+   "sentiment": "+",
+   "act": "Q"
+  },
+  {
+   "utterance": "i never watch new shows cause i'm always scared for unexpected vomit scenes",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "haven't seen any vomit scenes yet .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "maybe don't watch if you're scared of blood ❤",
+   "sentiment": "-",
+   "act": "S"
+  }
+ ],
+ [
+  {
+   "utterance": "worst is this inspired by russia sushi ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "i kinda wanna watch durarara again now",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "since when did have an unproductive day right now it's only 1 less than what freedoom has , i also think it's time for some gs related drama / issues this time",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "other operating systems : \" don't say the fuck word ! \" windows 10 mobile : \" duck ? clearly you mean fuck . would you like to remove ' duck ' from your dictionary ? \"",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "what a good keyboard",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "pap pap good input method",
+   "sentiment": "+",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "help ! ! !",
+   "sentiment": "-",
+   "act": "R"
+  },
+  {
+   "utterance": "how do you add cws on tusky ! ! !",
+   "sentiment": "-",
+   "act": "O"
+  },
+  {
+   "utterance": "in the bottom left corner of where u make the post , the post privacy options list has a little check box to hide text w a warning",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "where are y'all from / at ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "florida !",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "what part ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "orlando !",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "it's pretty decent ig .",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "so , all of us getting cross about twitter's terms and conditions /",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "do not track changes , remember you also need to take off the social media buttons on your blog .",
+   "sentiment": "-",
+   "act": "R"
+  },
+  {
+   "utterance": "like i forgot to .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "we need a mastodon social media button !",
+   "sentiment": "*",
+   "act": "S"
+  }
+ ],
+ [
+  {
+   "utterance": "sweet i've collected a couple of new mastonaut bandcamp albums to check out tomorrow .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "send me your music if it needs ears .",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "do you have <mention> in your list of mastomusic ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "i do now ,",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "thanks !",
+   "sentiment": "+",
+   "act": "T"
+  }
+ ],
+ [
+  {
+   "utterance": "why is everyone rting selfies",
+   "sentiment": "-",
+   "act": "O"
+  },
+  {
+   "utterance": "please have the common sense to not do that",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "oh , i'm sorry ! won't happen again .",
+   "sentiment": "-",
+   "act": "M"
+  },
+  {
+   "utterance": "its ok just . in general probably shouldnt",
+   "sentiment": "*",
+   "act": "A"
+  },
+  {
+   "utterance": "unfortuantely you were not nearly the only one",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "how do people even pay these prices for amazon or google cloud",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "with your data i think",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "but you're still paying a lot of money for the instances themselves ...",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i mean a lot of companies run on aws who use your data to make money",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "oh , i see . yeah ...",
+   "sentiment": "*",
+   "act": "A"
+  },
+  {
+   "utterance": "we actually save a lot of time not having to manage db / cache / mq by using aws stuff at work",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "so a dicision im milling over whilst i wait for washing to finish.get hair cut or not.its at a long length ,",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "but i do fancy not having a boiling head.my hair is thick as well so soaks all the rays 😁",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "guys hair grows faster ? ? i'd have it cut",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "its just more the heat than anything . i know ill regret it right after , but then will just hold my breath for it to grow even quicker 😁",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "mine was down to my shoulders if i brushed it properly .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "but its also really thick , so the heat just gets really bad",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i've decided that youtube ads are one of the most annoying things created by mankind .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "but for $ 10 a month , google promises to stop annoying the ever-loving $ & <mention> # out of you !",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "doesn ’ t the fp mosque have a jihadi history ?",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "way back when . it's been closed and re-opened since then.https :/ / en.wikipedia.org/wiki/finsbury_park_mosquemy point wasn't about the ideology though , but about accurate reporting of what happened .",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "< very von karma voice > bleigh ! i vant to suck your blood !",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "i cringed so fucking hard when i saw phoenix show him the letter . like , yeah show the evil evidence destroying supervillain the one single proof you have against him",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "if it isn't free software it's only a shitty proof of concept imothanks for the ideas fam ,",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "now i'm going to copy them and destroy your business model 👌 🏽",
+   "sentiment": "-",
+   "act": "E"
+  },
+  {
+   "utterance": "this is hot",
+   "sentiment": "*",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "so instead of the nice predictable wlan 0 and eth 0 we have some completely random device names . thanks systemd .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "even better , i'm pretty sure this change was in the effort of creating predictable device names , how wonderful that now you need to ` ip link show ` in order to even know what your interfaces are called now ? saves so much time compared to ` ifconfig eth 0 ` !",
+   "sentiment": "+",
+   "act": "D"
+  }
+ ],
+ [
+  {
+   "utterance": "my advice to under 18s on mastodon is : go outside",
+   "sentiment": "*",
+   "act": "S"
+  },
+  {
+   "utterance": "but be even more careful what information you post outside",
+   "sentiment": "*",
+   "act": "S"
+  },
+  {
+   "utterance": "like whatevs just so long as u don't become one of those dumb teens who read a post on tumblr one time & believe they know how the world works nowlikego outsidepet a dog",
+   "sentiment": "-",
+   "act": "S"
+  },
+  {
+   "utterance": "this is extremely good advice",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "sub \" tumblr \" for \" reddit \" or \" 4chan \" depending on your political affiliations",
+   "sentiment": "*",
+   "act": "S"
+  },
+  {
+   "utterance": "i was that teen and i have nothing but regretzfor me it was usenet tho",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "i was that tumblr teen and i am / shocked / anyone who knew me during that time could put up with me",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "i was that tumblr teen but everyone was bullying me for being gay anyway so it didn't make much of a difference ... then i went to a college where everyone was that tumblr teen andgoshgoshglad i'm like ... mentally 30 now",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "the cat is out of the ... box .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "but is it still alive ? and was it alive before the box was opened ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "every gif is alive , that's why they * move * silly ... sheesh .",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "hey jordan ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "stop it",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "im an innocent third party in all of this",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "wait",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "did the same dude that made haikyuu make bnha because the manga styles look so similar",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "but i thought that at first lol ...",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "haikyuu guy has a neat short manga about some weird horror story guy ( good stuff ) and bnha guy has a sadly discontinued really good one called oumagadoki zoo , if ur interested tho ( u can find both on mangafox )",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "they look so similar im surprised its not the same artist but il check out both of them : o",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "bnha is a little more round , kinda organic in a way , while haikyuu has sharper lines and shapes . if u look at them for a while u can start to notice the differences ! !",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i just spent some time unsubbing from podcasts and they're still out of control",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "send help <url>",
+   "sentiment": "-",
+   "act": "R"
+  },
+  {
+   "utterance": "too many podcasts to listen to unless you want to spend every waking hour listening to them in order to keep up to speed .",
+   "sentiment": "-",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "also i did art last week of blue diamond from #stevenuniverse sjshsj i'll stop here i'm nervous #mastoart #art <url>",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "ahhhh eyes . y'all all seem to art the most beautiful gaze that makes me wonder what they're staring at in the distance . soooo happy to have you here & inspiring others !",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i follow like 2-3 thirstposters now and wow the daily thirst increase is real",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "hehe",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "due to meds i am generally not very thirstythanks a lot mastodon . thastodon",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "thirstodon",
+   "sentiment": "-",
+   "act": "D"
+  }
+ ],
+ [
+  {
+   "utterance": "feels a bit weird sitting at work with a box of \" toys \" in my bag ( ⁄ ⁄ • ⁄ ω ⁄ • ⁄ ⁄ )",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "gettin ' all excited or what ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "more embarrassed ( / / ▽ / / )",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "as long as they are still in the bag ...",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "disgusted prompto pictures i have <url> <url> <url> <url>",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "the bottom right one looks like he could kill me at any moment 😍",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "god i wish that were me part 2",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "... apparently i'm at that level of emotional corniness where the ds9 theme plays on shuffle and i start crying",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "yes ,",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "but have you ever burst into tears during a richard simmons tape after he chirps \" i love you ! \" to the camera ? ( but seriously i was pretty bummed when ds9 ended because those are all my friends , guys . ) #criesatparadefloats",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "i think the lamest thing i've ever cried at was a barry manilow song , so i feel ya . 🙃",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "i ... can i hear the parade float story ? !",
+   "sentiment": "*",
+   "act": "O"
+  }
+ ],
+ [
+  {
+   "utterance": "so i started rewatching the office in the evenings while i work and it's so painful . jim . pam . just do it .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "my tolerance for awkwardness humor is low ( and not getting better ) ... i find \" the office \" almost unwatchable",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "yeah . so awkward . it's very painful",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "do people actually enjoy tv about , well , unpleasant people ?",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "i guess i do , sometimes , but seriously i get my fill of people being petty and vindictive in my daily life",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "see , the thing is that there are enough pleasant people that it strings you along ( for certain values of \" you \" )",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "mheh , well said ! and you put your finger right on it , jim and pam are supposed to be those people for us , but after a while they just look insufferable too",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "yeah , i kind of stopped watching at some point when it was on because i couldn't deal with it anymore .",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "i mean , before jim and pam are together , you have that they really have to bone at some point . after they're together , why endure ?",
+   "sentiment": "-",
+   "act": "O"
+  }
+ ],
+ [
+  {
+   "utterance": "what the heck are tankies ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "people who think that stalin's repressions , including holodomor and the 1930s purges , either didn't happen , happened in greatly reduced numbers , or were somehow \" justified \" .",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "does anyone ever feel anxious and empty at the same time ? 😞",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "yeah a lot tbh",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "lol i feel crazy",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "relatable tbh ,",
+   "sentiment": "*",
+   "act": "A"
+  },
+  {
+   "utterance": "although i know im crazy because of psychosis :/",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "its all gonna be okay for u though , i truly believe that",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "a snow leopard sphynx ( sans wings , ooops ) for spikieamr on twitter as part of the myth_xchnge ( also on twitter ) . i ’ d love to take this to paper one day when i ’ m feeling a little more confident - gotta buckle down on capturing atmosphere more often !",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "dang i love the intensity of her expression in the sketch ! ! sphinxes are the best",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "should i post some of my old ones ?",
+   "sentiment": "+",
+   "act": "Q"
+  }
+ ],
+ [
+  {
+   "utterance": "archer is aplatonic",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "des ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "he . is not . a people person . his kink is protecting the forest tori",
+   "sentiment": "-",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "there is nothing worse than an airport with a closed pre ✅ lineflocks of grown humans with no idea what \" laptops out of your bags \" and \" shoes must be removed \" means . i grabbed 8 bins because i correctly guessed 4 of them would go to others ahead of me in line #ksjc",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "the last time i was at ksjc they'd given up all pretense of post -9/11 security and were keeping laptops in bags and waving folks through metal detectors with shoes on . it was wonderful .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "this was not one of those times nice airport tbh , just bummed that the airport bar is closed and my airplane is broken and i'm gonna sober up before they get a replacement aircraft in",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "the plane is broken and the bar is closed ?",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "that's some grade a bullshit right there .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "sorry fox .",
+   "sentiment": "-",
+   "act": "M"
+  },
+  {
+   "utterance": "i'm a cat , you inconsiderate clod ! = ^ . ^ = ... i think they're going to keep trying to start that engine manually until another 737 arrives in a half hour and we move over to that",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "this might be a - bit - off-topic .. but",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "what led you to creating vulpine.club as a cat ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "i mean , you're more than welcome to do that , i'm just a curious fox :)",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "good luck with - finally - getting on flight , too !",
+   "sentiment": "+",
+   "act": "H"
+  },
+  {
+   "utterance": "i had the same thought . ^ . ^",
+   "sentiment": "*",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "considering moving to another instance ...",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i'll give it a few more days , but so far the number of 20 - something leftist people who like video games and anime seems ... pretty low",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "at the correct hour we'll join tht magical french one",
+   "sentiment": "+",
+   "act": "S"
+  }
+ ],
+ [
+  {
+   "utterance": "hello friends -",
+   "sentiment": "*",
+   "act": "H"
+  },
+  {
+   "utterance": "does anyone know of an #anthropology or #archaeology instance running on mastodon ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "haven't heard of any specifically oriented toward that -",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "assume you looked through the list of instances ? <url>",
+   "sentiment": "*",
+   "act": "Q"
+  }
+ ],
+ [
+  {
+   "utterance": "it seems to be really hot in europe .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "here it's 20 degrees , really nice ( but it's already evening )",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "we are burning 🔥 🔥",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "hope you survive it ( or even enjoy it ) .",
+   "sentiment": "-",
+   "act": "V"
+  },
+  {
+   "utterance": "it's weird becaues i always think of europe as very cold in the summers somehow",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "it is not unfortunately . these days 20 degrees is what we get at the coldest hours of the night 😓",
+   "sentiment": "-",
+   "act": "D"
+  },
+  {
+   "utterance": "i think this is just my image from going to paris & around there one summer some time ago in late july or august .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "it was much much hotter here then and i took all the wrong clothes and totally froze",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i really wonder why beelzebub doesn't have 2nd season ?",
+   "sentiment": "-",
+   "act": "O"
+  },
+  {
+   "utterance": "nope sadly it doesn't , also anime stopped following manga after 49 episodes so rest 11 episodes are fillers ,",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "but still it's one of my favourite delinquent based anime 😆 😆",
+   "sentiment": "+",
+   "act": "W"
+  },
+  {
+   "utterance": "that's why i felt confusion when i compare the manga to the anime . i really wonder why it was desperately forced to end that badly . 😭 😭 😭",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "i was to disappointed by watching the end , then someone said me anime didn't follow the manga so there's no chance of 2nd season . damn i wonder why such things happen with amazing animes ..",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "when i read it in the net , most if there comments said that because the anime is more on violence that's why theres no chance of having a second season . i wonder why it only happens to beelzebub 😭 😭",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "nah that's not the reason , just think that anime doesn't follow the manga and adds it's own story and fillers , makes no sense ,",
+   "sentiment": "-",
+   "act": "D"
+  },
+  {
+   "utterance": "so what do you think they'll show in 2nd season ?",
+   "sentiment": "-",
+   "act": "O"
+  },
+  {
+   "utterance": "and sadly i love this anime as it's the best delinquent based anime xd .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "very well said ! in short , just made as dissapoint ! i really expect more towards this anime 😭 😭",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "yeah exactly , well it's rare to see a delinquent raising a baby , and it's not ordinary baby though 😂 😂",
+   "sentiment": "-",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "give a man a fish , and you will feed him for a day .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "call a man a fish , and you'll confuse him for life",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "built like a fish , whole force in the tail",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "any juicy #socialcoop stats to share with us ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "re : new users etc . - starting to see more and more new faces .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i'm a data scientist",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "and willing to help parse logs , crunch numbers , and visualize the data if you need",
+   "sentiment": "+",
+   "act": "E"
+  },
+  {
+   "utterance": "that'd be nice !",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "i'm on a retreat this week ( working on alternative currency design , and enjoying the blue med - also why i haven't yet upgraded to the latest mastodon )",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "but why don't we look into that soon !",
+   "sentiment": "*",
+   "act": "S"
+  }
+ ],
+ [
+  {
+   "utterance": "my advice to under 18s on mastodon is : go outside",
+   "sentiment": "*",
+   "act": "S"
+  },
+  {
+   "utterance": "but be even more careful what information you post outside",
+   "sentiment": "*",
+   "act": "S"
+  }
+ ],
+ [
+  {
+   "utterance": "what is the \" theory \" <mention> has that john referred to when adam talking about old-time doctors typically treating women with instruments of a \" vibratory nature \" ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "are you talking about hysteria ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "or the idea that the hysteria was caused by ' wandering uterus '",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "it sounded like an \" inside joke \" from a previous show or private conversation . given the nature of <mention> ' s enjoyment at the thought , i too am intrigued .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "indeed a private joke .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i will never reveal it !",
+   "sentiment": "*",
+   "act": "E"
+  }
+ ],
+ [
+  {
+   "utterance": "that little animation when you relay or florp a ping 👌 👌 👌 👌 👌 👌 👌 👌 👌 👌 👌 👌 👌 👌",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i unflorped and reflorped this ping just to watch the animation again",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "at least one of us should write hadrian / samsam dp right",
+   "sentiment": "*",
+   "act": "S"
+  },
+  {
+   "utterance": "please ...",
+   "sentiment": "*",
+   "act": "R"
+  }
+ ],
+ [
+  {
+   "utterance": "29c in my city . we're having a rather chilly week : 3",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "36c for the next 4 days for me > <",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "an old ancom friend i'm messaging after a year is finding out how tankie i've become rn .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "oops !",
+   "sentiment": "*",
+   "act": "J"
+  },
+  {
+   "utterance": "the \" stalin was actually cool \" coming out moment is the hardest 😂",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "yeahhhhh",
+   "sentiment": "*",
+   "act": "A"
+  },
+  {
+   "utterance": "i probably won't go there tonight lmao . we were talking about the dprk which was painful enough",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "i gotta work on not sounding like a nutjob when talking about the dprk in public tbh .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "it's hard bc the mainstream discourse is like sooooo extreme . so like just talking about the dprk as you would any other country and not like it's a hell on earth , makes you sound crazy",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "exactly .",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "it's like ... – well , you now in the dprk they have a - – oh , the crazy little man , yeah . – ...",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "the orientalism is outta control",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "a musical genre that's just edm slowed down to , like , 20 bpm",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "everything slowed down that much sounds like sigur ros . what people don't know is that if you speed up sigur ros by 10 times it sounds like justin bieber .",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i cant make a cash.me account because it doesnt see my zip code as valid , get fucked lol",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "i can't make a cash.me account because my address is incredibly invalid by the tune of , like . an ocean",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "should i mate or should i cinammon ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "definitely cinnamon .",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "weirdos . all of the major targets are metro areas with immigrants ... and shit , just civilians in general . fuck that .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "he obsession with violence is off-putting honestly",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "killing your way to communism will surely persuade people and not make them think you're an evil dictator .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "and they think the posadists are bizarre",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "this ancom at those meetings i went three times once started praising justin trudeau and honestly but don't call yourself a communist if you stan neoliberalism that much",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "ancoms stay ancoming",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "it's 1am and i'm gonna do some #asian tweeting and talk about some shows u all should watch about asian families in diaspora",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "unfortunately like . almost all are east asian based . :(",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "when will my fellow east asians let anyone else at the media cake , honestly .",
+   "sentiment": "-",
+   "act": "O"
+  },
+  {
+   "utterance": "i get that we're still only getting a sliver of the whole thing , but it would still be better to also give literally any other asian groups opportunities , too .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "yeah it's like so obvious too like i genuinely was trying to think of se / s asian actors in hollywood and u can really only think of the big names while there r a good # of east asians , i mean it's bad for all of us , but even more so for not east asians .",
+   "sentiment": "-",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "btw anyone have for taking good art pictures ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "even my scanner is badmy paintings have little colors variations that never shows in pictures i'm sad :/",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "probably best with a dslr , a tripod and good lighting .",
+   "sentiment": "+",
+   "act": "W"
+  },
+  {
+   "utterance": "i also have problems getting things like colored sketches or pieces with color pencil digital",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "but have to admit i haven't tried it with a dslr yet , only scanner , smartphone or digital compact camera .",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "holy fuck",
+   "sentiment": "-",
+   "act": "V"
+  },
+  {
+   "utterance": "silent fuck",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "all is fuck",
+   "sentiment": "-",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "yo . your bio says ancienct astronaut theorist .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "do you watch ancient aliens ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "this is relevant to my interests .",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "we should organize a group watch ! ! !",
+   "sentiment": "+",
+   "act": "S"
+  }
+ ],
+ [
+  {
+   "utterance": "i wish i knew more leftists who are hindus but they're all neoliberal cunts",
+   "sentiment": "*",
+   "act": "V"
+  },
+  {
+   "utterance": "they all love modi for some despicable reason",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "good morning ( ^ _ ^ )",
+   "sentiment": "*",
+   "act": "H"
+  },
+  {
+   "utterance": "good morning : 3",
+   "sentiment": "*",
+   "act": "H"
+  }
+ ],
+ [
+  {
+   "utterance": "at least now i know what i need to play this morning to get me going : <url>",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i love this theme y_y",
+   "sentiment": "+",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "i was on twitter and saw people arguing about stolen tweets and this guy said \" wow i'm taking my like away",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "\" and i realize , do people treat likes and retweets like currency or something , is that what's going on ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "dunno .",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "however , even without treating them as one , i can imagine un-liking tweets if they were actually stolen from another user ( and trying to find and like the originals instead ) .",
+   "sentiment": "-",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "good night everyone .",
+   "sentiment": "*",
+   "act": "H"
+  },
+  {
+   "utterance": "let's make tomorrow rock .",
+   "sentiment": "+",
+   "act": "S"
+  },
+  {
+   "utterance": "i'll vote for that !",
+   "sentiment": "+",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "windows update crashed my grub bootloader ... that's not what i'd expect an os update to do ...",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "but exactly what i'd expect windows to do .",
+   "sentiment": "-",
+   "act": "D"
+  }
+ ],
+ [
+  {
+   "utterance": "pleroma is the dark souls of ostatus servers .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "will be the dark souls ii of it",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "( just need time to start a proper thing )",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "\" just need time \" ;)",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "at the end of my internship :p ( so starting in august )",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "nazis are literally trying to kill me . you think i'm gonna fuck around with this shit ?",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "think a-fucking-gain .",
+   "sentiment": "-",
+   "act": "R"
+  },
+  {
+   "utterance": "if you could skip the country and go live somewhere else , would you ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "do you think nazis won't try to kill me somewhere else ?",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "they've already removed most of my ability to work making me unable to pay for medical treatment . they can do that from anywhere .",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "does anyone ever feel anxious and empty at the same time ? 😞",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "all the time",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "i feel like i'm losing my mind a little bit",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "relatable . im always anxious and if im not feeling empty or depressed im angry . also usually dissociating .",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "i needa go smoke",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "have a good time then ! enjoy your smoke .",
+   "sentiment": "+",
+   "act": "H"
+  },
+  {
+   "utterance": "i sure will ,",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "thank you so much .",
+   "sentiment": "+",
+   "act": "T"
+  },
+  {
+   "utterance": "i hope you start feeling a lil better today ❤ ️",
+   "sentiment": "+",
+   "act": "H"
+  }
+ ],
+ [
+  {
+   "utterance": "where did you go ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "seems that you don't use the mastodon anymore .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "busy wit python . both writing and teaching .",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "it's alive ! it's alive !",
+   "sentiment": "+",
+   "act": "J"
+  }
+ ],
+ [
+  {
+   "utterance": "wow ,",
+   "sentiment": "+",
+   "act": "J"
+  },
+  {
+   "utterance": "i actually slept at a semi-reasonable time for once .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": ":d yay !",
+   "sentiment": "+",
+   "act": "J"
+  },
+  {
+   "utterance": "one day i hope to equal this accomplishment :p",
+   "sentiment": "+",
+   "act": "V"
+  },
+  {
+   "utterance": "i went to sleep at like 02:30 and had to wake up at 05:30 .",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "... apparently i'm at that level of emotional corniness where the ds9 theme plays on shuffle and i start crying",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "speaking of : forever grumpy that the dang garak book is a ) out of print and b ) $ 35 in paperback .",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "excuse me",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "this is such a crime .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "right .",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "i bought the ebook last year out of resignation and the vague hope that robinson would see even a fraction of the money . ( 😢 🦎 )",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "i hope he does because he is cool and good ( like many of the other minor ds9 characters )",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "does anyone have recommendations for plants suitable for an office desk ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "cacti ? they look interesting , need very little attention and can help smite the fingers of your enemies . sort of an all-rounder",
+   "sentiment": "+",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "it seems to be really hot in europe .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "here it's 20 degrees , really nice ( but it's already evening )",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "it ’ s 31 ° c here , and planned to go up to 36 today :(",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "and it'll stay in the 30 to mid - 30 ' s till friday :(",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "wow .",
+   "sentiment": "*",
+   "act": "J"
+  },
+  {
+   "utterance": "here we are said to have a high of 29 tomorrow and then mid - 20s indefinitely from the end of the week onward ( plus lots of rain )",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i love you",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "please breathe you're not crazy",
+   "sentiment": "+",
+   "act": "R"
+  },
+  {
+   "utterance": "thank you so much",
+   "sentiment": "+",
+   "act": "T"
+  },
+  {
+   "utterance": "love you too this is v validating",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "and im so thankful",
+   "sentiment": "+",
+   "act": "T"
+  }
+ ],
+ [
+  {
+   "utterance": "good morning ( ^ _ ^ )",
+   "sentiment": "*",
+   "act": "H"
+  },
+  {
+   "utterance": "mornin ' :)",
+   "sentiment": "*",
+   "act": "H"
+  }
+ ],
+ [
+  {
+   "utterance": "is jane the virgin the only good cw show lmao",
+   "sentiment": "+",
+   "act": "Q"
+  },
+  {
+   "utterance": "izombie and crazy ex girlfriend are also good i hear",
+   "sentiment": "+",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "i'm going to start refering to marxism-leninism and trotskyism as \" all the old crap of the thirties \" <url>",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "and i thought the \" crap from the thirties \" were the nazis ...",
+   "sentiment": "*",
+   "act": "D"
+  },
+  {
+   "utterance": "silly me !",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "<mention> true true ,",
+   "sentiment": "*",
+   "act": "A"
+  },
+  {
+   "utterance": "but mein kampf was published in 1925",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "the best compliment anyone's ever given me is \" you would be a good zarya cosplayer . \" i'm not even in shape , but i got the body type for muscles .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "cosplay is beyond shape and muscle or color or gender etc etc etc",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "it defines me perfectly . i wanna cry \" dox ! moonman ban dirb ! \"",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i thought that <mention> was already doxed <url>",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "read the terms of service for the joke . _i_ have yet to be doxxed . plus , challenge people to do so . it's somewhere in my timeline !",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "there was a tos ? , i thought that the domain name was self explanatory",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "lol there is ! e . g . no posting loli shota gore dox harrasment , and plenty other us arizona shit",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "yes , i read it , that was also a joke",
+   "sentiment": "*",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "i follow like 2-3 thirstposters now and wow the daily thirst increase is real",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "hehe",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "due to meds i am generally not very thirstythanks a lot mastodon . thastodon",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i'm thirsty as fuck",
+   "sentiment": "+",
+   "act": "D"
+  }
+ ],
+ [
+  {
+   "utterance": "homeward bound , perfect day 💙 💙 ☀ ️ 💙 💙 <url>",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "wow ,",
+   "sentiment": "+",
+   "act": "J"
+  },
+  {
+   "utterance": "that's beautiful !",
+   "sentiment": "+",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "i never mentioned this but my character in dragon d & d is a beautiful genderfluid bronze dragon . her favored humanoid form is that of a sailor man ( actually in her back story she was a fisherman but i always refer to her as a buff sailor ) . i love her",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "omg i love the idea of a genderfluid shape-changer so much !",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "it is 100 % the best thing , highly recommend",
+   "sentiment": "+",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "hey , are you planning to update signal-muon ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "there's probably no way to update signal version by rebuilding app ?",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "thanks !",
+   "sentiment": "+",
+   "act": "T"
+  },
+  {
+   "utterance": "yup it's on my todo",
+   "sentiment": "*",
+   "act": "A"
+  },
+  {
+   "utterance": "aaand it's updated",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "the onceler had a fandom ? ? ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "i was in it onceler fandom was real",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "all this is but a very elaborate cute girl harem emulator",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "that is romantic for very sad definitions of romantic",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "properly immersive vr would be super freeing . if you could leave meatspace even moreso . you could be whoever you wanted to be . knowledge workers wouldn't even be at a disadvantage for being virtual .",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "from the looks of it , it might be secure boot getting in your way ...",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "this may or may not be helpful : <url>",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "next restart ,",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "i'll try again",
+   "sentiment": "*",
+   "act": "E"
+  }
+ ],
+ [
+  {
+   "utterance": "it defines me perfectly . i wanna cry \" dox ! moonman ban dirb ! \"",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i thought that <mention> was already doxed <url>",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "read the terms of service for the joke . _i_ have yet to be doxxed . plus , challenge people to do so . it's somewhere in my timeline !",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "there was a tos ? ,",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "i thought that the domain name was self explanatory",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "lol there is ! e . g . no posting loli shota gore dox harrasment , and plenty other us arizona shit",
+   "sentiment": "+",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "ok , so <url> is basically mastodon with the twitter interface .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "and it's far better than quitter for gnusocial , btw .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "seems nice !",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "is it easier to follow the conversations with it ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "it's really the same as twitter .",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "toqger was surprisingly good . i love the season .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "oh , yeah , it got _really_ good ,",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "and i found myself missing it frequently during the next season > _ >",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "so back from meditation and some reason i am way hornier ... i need to be fucked .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i feel this .",
+   "sentiment": "*",
+   "act": "A"
+  },
+  {
+   "utterance": "i hope you can get some .",
+   "sentiment": "+",
+   "act": "V"
+  }
+ ],
+ [
+  {
+   "utterance": "🐙 no selfie yesterday because depressed . <url>",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "hey . what happened ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "nothing in particular , just depressed and unmotivated",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "do you want a hug ?",
+   "sentiment": "+",
+   "act": "Q"
+  }
+ ],
+ [
+  {
+   "utterance": "it seems to be really hot in europe .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "here it's 20 degrees , really nice ( but it's already evening )",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "says 33-38 ° this afternoon where i am ( middle of france )",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "hey <mention> and <mention> - any juicy #socialcoop stats to share with us ?",
+   "sentiment": "+",
+   "act": "Q"
+  },
+  {
+   "utterance": "re : new users etc . - starting to see more and more new faces .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i'm a data scientist",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "and willing to help parse logs , crunch numbers , and visualize the data if you need",
+   "sentiment": "+",
+   "act": "E"
+  }
+ ],
+ [
+  {
+   "utterance": "spring man better be in the next smash bros",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "girl is superior . you see she kicks his ass",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "everyone kick springmans ass i want it",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "you've all heard of fidget spinners , i'm sure .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "but have you considered that you may be a fidget sinner ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "hi , i'm greg , the new youth pastor",
+   "sentiment": "*",
+   "act": "H"
+  },
+  {
+   "utterance": "jesus had a fidget spinner too , you know . except he called it god's love , and he gave everyone one ,",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "and actually this metaphor isn't going as well as i thought it would \"",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i swear ,",
+   "sentiment": "*",
+   "act": "V"
+  },
+  {
+   "utterance": "one day i'll move to scandinavia .",
+   "sentiment": "*",
+   "act": "E"
+  },
+  {
+   "utterance": "you're most welcome !",
+   "sentiment": "+",
+   "act": "V"
+  },
+  {
+   "utterance": "( at least , i think so - our horribly strict immigration laws might disagree :( )",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "also yes thats my actual surname . take that information and do with that what you will",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "i leaked my whole ass name on twt when i posted my grades for you and i havent even deleted it",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "holy fuck i completely forgot about that fsdhfjdsh",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "looking back on it like god what was my problem lmao i was such a pussy",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "milk is nasty next topic !",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "block me back",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "this is lactose intolerant hate",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "lol what if we live under a system that actively degrades our mental health in order to make us feel bad non-stop because that's the most effective way to make us buy things that promise happiness ( and work more in the process )",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "wait did you say what if ?",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "i thought this was already a given",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "communist and anarchist aren't mutually exclusive .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "all decent communists and anarchists want the same thing , we just disagree on how to get there",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "what about feminine benis ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "did i mention any exceptions ?",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "good morning .",
+   "sentiment": "*",
+   "act": "H"
+  },
+  {
+   "utterance": "morning !",
+   "sentiment": "*",
+   "act": "H"
+  },
+  {
+   "utterance": "hey ,",
+   "sentiment": "*",
+   "act": "H"
+  },
+  {
+   "utterance": "how are you feeling ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "better today ,",
+   "sentiment": "+",
+   "act": "W"
+  },
+  {
+   "utterance": "thank you .",
+   "sentiment": "+",
+   "act": "T"
+  },
+  {
+   "utterance": "not at 100 % , but getting there .",
+   "sentiment": "+",
+   "act": "W"
+  },
+  {
+   "utterance": "glad you're getting better .",
+   "sentiment": "+",
+   "act": "M"
+  },
+  {
+   "utterance": "here's wishing for continued improvement .",
+   "sentiment": "+",
+   "act": "V"
+  }
+ ],
+ [
+  {
+   "utterance": "i woke up at 5 as usual",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "even if it's usual you still woke up at 5 with us ! .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i mean my 5 am was 9 hours ago but",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "ohnvmdidn't realize that yr a brit",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "im not ,",
+   "sentiment": "*",
+   "act": "D"
+  },
+  {
+   "utterance": "a ... a european ... or an australian ...",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "european",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "are you yet another person i now know in germany and austria ...",
+   "sentiment": "*",
+   "act": "Q"
+  }
+ ],
+ [
+  {
+   "utterance": "that 2 am thirst when u sign up for all the dating websites 🙈 🙈",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "where the cute girls near me at ? ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "well , i'm on the same continent !",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "that's a start 😁",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "where you at ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "sweden . a little far from austria ,",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "but if you ever move here i'll take you out ! ♥",
+   "sentiment": "+",
+   "act": "E"
+  },
+  {
+   "utterance": "the offer is reciprocated 😊 😍",
+   "sentiment": "+",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "so instead of the nice predictable wlan 0 and eth 0 we have some completely random device names . thanks systemd .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "what do you mean ?",
+   "sentiment": "-",
+   "act": "O"
+  },
+  {
+   "utterance": "i * love * my very predictable device name , \" enp 1s25 \" . it's much better than the one i had two reboots ago .",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "what space seems pretty real . next up is dinosaurs i guess",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "dinosaurs , you say <url>",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "aight actually here's me looking tan again even though im not .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "thanks lighting <url>",
+   "sentiment": "+",
+   "act": "T"
+  },
+  {
+   "utterance": "someone photographed you while sleeping , be careful !",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "so a dicision im milling over whilst i wait for washing to finish.get hair cut or not.its at a long length , but i do fancy not having a boiling head.my hair is thick as well so soaks all the rays 😁",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "guys hair grows faster ? ?",
+   "sentiment": "+",
+   "act": "Q"
+  },
+  {
+   "utterance": "i'd have it cut",
+   "sentiment": "+",
+   "act": "S"
+  },
+  {
+   "utterance": "just waiting for washing to finish then head to barbers .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "tempted to do it myself , but feel like keeping my nose & ears ;)",
+   "sentiment": "+",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "i am awake but at what cost",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "good morning 🍆",
+   "sentiment": "*",
+   "act": "H"
+  }
+ ],
+ [
+  {
+   "utterance": "navigating some unfamiliar ( and quite recent ) additions to the unity api and the amount of [ x is depreciated ] warnings the documentation is giving me is staggering",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "yepppppppp.baw gawd",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "i thought they were meant to be putting extra effort in to making the manual good u_u",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "tried upgrading a webgl project from 5.5 to 5.6 , totally busted it . we even have a contact at unity and all they gave us was a white paper and some draft of a google docvideogames ! ! 😥",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "other operating systems : \" don't say the fuck word ! \" windows 10 mobile : \" duck ? clearly you mean fuck . would you like to remove ' duck ' from your dictionary ? \"",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "the funny thing with this is the windows 10 desktop / tablet kbd is the exact opposite of this . it will . not . let you say fuck .",
+   "sentiment": "+",
+   "act": "D"
+  },
+  {
+   "utterance": "you have to like manually change it back from \" duck \" several times and it won't add swears to the dictionary .",
+   "sentiment": "-",
+   "act": "E"
+  },
+  {
+   "utterance": "it's bad",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "let windows say fuck",
+   "sentiment": "-",
+   "act": "S"
+  }
+ ],
+ [
+  {
+   "utterance": "is the combo 🔁 + ⭐ a marriage proposal ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "now i'm afraid to boost and star this post .",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "ok , there is another reason to actually finish this phd . i can then say ' i'm the doctor ' because in the group i work in i will be the only one with a doctorate .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "you're kinda reinforcing my resolution to not bother with phd haha",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "don't , it isn't worth it .",
+   "sentiment": "-",
+   "act": "D"
+  },
+  {
+   "utterance": "if i had more than just this dame dissertation to write than i wouldn't finish it.mainly i am finishing it so people will stop asking if i am going to finish it .",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i miss irc can't reach my raspi right now , wonder what happened to it , need to check it out when i get home",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "ssh irc.sircmpwn.com uptime 13:42 : 55 up 630 days , 15:24 , 1 user , load average : 0.00 , 0.03 , 0.05",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "yes or no do i eat my last pint of ice cream tonight",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "the world might die tomorrow so go for it while you can .",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "i keep opening bribside even after removing that bookmark .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "now i'm adding it to / etc / hosts",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "such an amazing way to introduce hard to debug networking issues :)",
+   "sentiment": "+",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "i'm lucky , i don't have to work outside so i'm spare from the worst .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "what's the average summer temperature in japan ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "it depends on the place , and exactly when in the season . we have early summer which is dry and pretty hot in tokyo , then rainy season which is cooler ( now ) , then it's super humid and hot and awful after that ( maybe average about 35 or so )",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "i'm just platform surfing to shitpost at unreasonable hours",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "gd it worked .",
+   "sentiment": "+",
+   "act": "D"
+  },
+  {
+   "utterance": "we should do a day without the other site .",
+   "sentiment": "+",
+   "act": "S"
+  }
+ ],
+ [
+  {
+   "utterance": "my advice to under 18s on mastodon is : go outside",
+   "sentiment": "*",
+   "act": "S"
+  },
+  {
+   "utterance": "even if it is raining ! no lightning , though .",
+   "sentiment": "*",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "so the alternative stack is postgres elixir nginx iptables software engineer ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "challenge : how many resumés you can put that in before someone notices",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "i'd need something to replace software engineer but yeah , challenge accepted",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "unsure if i will ever be able to be fully open emotionally and sharing with another person so , until then i'll just be that way online to many strangers ! !",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "it might sound paradox , but embracing my paranoia and practicing security culture helped me with that . 💜 💜 💜",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "if you don't mind me asking , how did you embrace both things ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "i'm glad something has helped you :-)",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "do you listen to any #podcast ? any suggestion ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "currently it's 99pi , intercepted , and myths and legends .",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "don't really have more time during a week , so i'm pretty ruthless with what makes the cut .",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "so im scared of bad weather because i lived thru a tornado",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "i feel u .",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "i got some sweet trauma during a storm so they fuck with me too . solidarity",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "solidarity in like ... fuck weather u kno like ugh fuck it",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "i would kick a storm's ass if i could",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i want money without having to revealing my birthname or doxxing myself is thag too much to ask for",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "hmm ... bitcoin perhaps ?",
+   "sentiment": "*",
+   "act": "S"
+  }
+ ],
+ [
+  {
+   "utterance": "how can people still genuinely believe google cares about not being evil ‽",
+   "sentiment": "-",
+   "act": "O"
+  },
+  {
+   "utterance": "it's pretty obvious evil is just one of their numerous enterprises .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "evil ?",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "it's the capital e in the alphabet they have misappropriated :-)",
+   "sentiment": "-",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "it seems to be really hot in europe . here it's 20 degrees , really nice ( but it's already evening )",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "it ’ s 31 ° c here , and planned to go up to 36 today :(",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "ouch .",
+   "sentiment": "-",
+   "act": "J"
+  },
+  {
+   "utterance": "cold water immersion required",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "seeing the chance to finally leave facebook behind without coming across as rude",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "do it guys telegram makes every friendship better",
+   "sentiment": "+",
+   "act": "S"
+  },
+  {
+   "utterance": "like , actual telegrams ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "probably better than gopnik whatsapp",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "this website is very confusing .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "heres a doodle because this is an art thing . <url>",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "confusing ? \\",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "just ask the void , we'll help !",
+   "sentiment": "+",
+   "act": "R"
+  }
+ ],
+ [
+  {
+   "utterance": "according to the gender role test ( <url> ) i'm undifferentiated-androgynous ... i don't know about that , but it's convenient ...",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "casually femininehuhi'm not sure how casual that can be but meh",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "here on my right i have an xbox one xto my left i have an x box",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "one sone lies a",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "nd the other tells truths",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "which one will u pick",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "the very first xbox becausr i can play shadow the hedgehog on it",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "correct u may now go on your merry way loyal adventurer",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "other operating systems : \" don't say the fuck word ! \" windows 10 mobile : \" duck ? clearly you mean fuck .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "would you like to remove ' duck ' from your dictionary ? \"",
+   "sentiment": "*",
+   "act": "S"
+  },
+  {
+   "utterance": "the funny thing with this is the windows 10 desktop / tablet kbd is the exact opposite of this . it will . not . let you say fuck . you have to like manually change it back from \" duck \" several times and it won't add swears to the dictionary . it's bad",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "<mention> deplorable",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "they're making the desktop / tablet kbd more like the phone one in insider builds now .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i haven't tested it yet tho so idk if that includes autocorrect behavior , but it ducking better",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "it is deeply reaffirming to realize that you still enjoy most of the stupid music you liked as a teenager .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "but as a teenager i listened to chris de burgh and depeche mode and phil collins , none of which were stupid .",
+   "sentiment": "+",
+   "act": "D"
+  }
+ ],
+ [
+  {
+   "utterance": "i can finally finish dildo.photos now that my server migration is finished !",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "this sounds like something that would make me wear bulletproof underwear",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "oh i thought it was some sort of edgy tumblr",
+   "sentiment": "*",
+   "act": "D"
+  }
+ ],
+ [
+  {
+   "utterance": "i cant get into enstars because my scouting luck is shit to none",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "look at the cards and read the storydont bother with actually getting them",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "im a greedy fucker i cant just look at them",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "i can relate but that only makes life harder on you",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "its ok love live is decent to me",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "how are u still alive",
+   "sentiment": "*",
+   "act": "O"
+  }
+ ],
+ [
+  {
+   "utterance": "people ! please share your knowledge .",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "how do you keep your #notes ( online / offline ) together , how do you keep your #bookmarks ( online / offline ) together , and why am i such a weirdo asking you all this ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "i make heavy use of imap notes . i can edit them through the web interface of my email provider and there is native support in the notes app on all my apple thingos . they all keep in sync and it works great .",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "i never knew that this is possible .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "are these notes just mail drafts or something else ?",
+   "sentiment": "*",
+   "act": "O"
+  }
+ ],
+ [
+  {
+   "utterance": "yesterday i had this message on okc",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i made me puke after seeing this . since then , i struggle with suicidal thoughts . i'm such an easy target . sometimes , like now , i wonder if i made the right decision by saying out loud that i'm an incest victim .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "did you say it on okc ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "i hope it will not happen again . :/",
+   "sentiment": "-",
+   "act": "V"
+  },
+  {
+   "utterance": "i deleted my account . i meant to do it anyway but that helped me .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "that might be the best thing to do for now .",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "i hope you'll feel better soon . ^ ^ '",
+   "sentiment": "+",
+   "act": "V"
+  },
+  {
+   "utterance": "thanks",
+   "sentiment": "+",
+   "act": "T"
+  }
+ ],
+ [
+  {
+   "utterance": "look who i was behind today <url>",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "okay , i'll guess :",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "bill gates . ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "( bepis , which is what this plate reads , is a meme , it's a little stupid )",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "wind archer is aplatonic",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "des ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "he . is not . a people person . his kink is protecting the forest tori",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "can you please not say it like that his forest protector kink role makes me want to kill mysef",
+   "sentiment": "-",
+   "act": "R"
+  }
+ ],
+ [
+  {
+   "utterance": "for my interpretation , no precincts were won by the green party.https :/ / hackers.town/media/vuxig-hcsmk8vkavkjo",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "green and yellow show up in redshifting , though , right ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "this isn't rotation - - it's shearing away from us , each vote travelling at a speed that either blueshifts to exactly this blue or red . what a strange phenomenon ...",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "hmm ... i guess that does make more sense ,",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "now that i look at it ... no wonder he was kicked out ! his sciency analysis wasn't even correct !",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "xkcd can be pretty funny sometimes , but i wonder if we're putting too much pressure on him to perform",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "okay , how do people who don't have vc money pouring out their ears put up with this ?",
+   "sentiment": "-",
+   "act": "O"
+  },
+  {
+   "utterance": "like , tools exist to manage bare metal and nocix gives you a much better deal",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "nocix and aws aren't even the same species . you can't really compare them like that .",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "true .",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "i'm just trying to find something that works good enough for my ( apparently niche and weird ) use case",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "aws isn't about getting a single server online to do linuxy stuff . it's about large automated deployments of software and auto-scalling systems . the ability to spin up and down massive amounts of compute power at a whim .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "yeah .",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "i don't have the budget to do anything like that , so not the place for me to be lookin ' . :/",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "yup .",
+   "sentiment": "-",
+   "act": "A"
+  },
+  {
+   "utterance": "and probably not all the time and patience it takes to write and maintain the kind of obnoxious software necessary to run such an environment . god knows i don't",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "if i could save money doing it and get experience in doing it for the future , i totallu would learn all that obnoxious stuff .",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "you , a good person : can formulate their feelings caused by bpd perfectlyme , banging on pots and pans with spoons and screaming as loud as i can : bpd ! bpd ! bpd ! bpd !",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "lol same =/",
+   "sentiment": "*",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "other operating systems : \" don't say the fuck word ! \" windows 10 mobile : \" duck ? clearly you mean fuck . would you like to remove ' duck ' from your dictionary ? \"",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "the funny thing with this is the windows 10 desktop / tablet kbd is the exact opposite of this . it will . not . let you say fuck .",
+   "sentiment": "+",
+   "act": "D"
+  },
+  {
+   "utterance": "you have to like manually change it back from \" duck \" several times and it won't add swears to the dictionary .",
+   "sentiment": "-",
+   "act": "E"
+  },
+  {
+   "utterance": "it's bad",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "same for android , though swiftkey is better there",
+   "sentiment": "+",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "an apache oneliner to rickroll people trying to access * . git folder * on your server : redirectmatch ^ . * / \\ . git ( / . * ) ? $ \" <url> \"",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "place this line in your server config or in each virtualhost you need .",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "😍",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "reading this <url> i thought i may do better than 403 ( debian default security config )",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "man better be in the next smash bros",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "ribbon girl is superior . you see she kicks his ass",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i want this",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i love chrom",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "he have no ass",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "oh also before i go i've made lots of new mutuals on here",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "so drop your twitter <mention> ' s so i can follow you on there as well 👇 🏽 👇 🏽 👇 🏽",
+   "sentiment": "*",
+   "act": "R"
+  },
+  {
+   "utterance": "same as on here 🍒",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "beautiful",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "now counting down to \" why isn't there a white stripe ? \"",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "the best compliment anyone's ever given me is \" you would be a good zarya cosplayer . \" i'm not even in shape , but i got the body type for muscles .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "pink hair ! pink hair !",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "bisexual people are valid regardless of who they date .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "this isn't a difficult concept to grasp lol",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "thank you",
+   "sentiment": "+",
+   "act": "T"
+  }
+ ],
+ [
+  {
+   "utterance": "do you listen to any #podcast ? any suggestion ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "i think intercepted is the best podcast right now . high production value , too notch guests , and consistent challenges to the way i think about current events #news #politics <url>",
+   "sentiment": "+",
+   "act": "W"
+  }
+ ]
+]

@@ -1,0 +1,594 @@
+[
+ [
+  {
+   "utterance": "so i'm honestly real fucking happy that the federated timeline mostly seems to be a bunch of suuuper bitter anarchists . my people .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "( perhaps i should hop to the instance that's like , specifically about that ? )",
+   "sentiment": "+",
+   "act": "Q"
+  },
+  {
+   "utterance": "best part is — you can do both !",
+   "sentiment": "+",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "in #germany people can buy powerful #gnu #linux laptops for #gaming <url>",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "not only in germany - we're shipping for free inside the whole eu ! ( even worldwide , but that's not free of charge . )",
+   "sentiment": "*",
+   "act": "D"
+  }
+ ],
+ [
+  {
+   "utterance": "i never mentioned this but my character in dragon d & d is a beautiful genderfluid bronze dragon . her favored humanoid form is that of a sailor man ( actually in her back story she was a fisherman but i always refer to her as a buff sailor ) . i love her",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "omg i love the idea of a genderfluid shape-changer so much !",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "so i wrote about doom , and a part of its legacy that i feel a lot of old-school first-person shooters pass over . <url> <url>",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "deep in the nuances of the former human ( zdoom decorate ) code recently , i was struck by how long the delay between their \" aim \" and \" fire \" frames are , 0.2857 seconds . i realized how much of my playing in hitscanner-heavy areas is about exploiting this window .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "what a strangely specific value . i wonder how much tweaking went into it .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "it's 10 tics ; tics in doom are 1/35 of a second , an even 2x of 70hz the vsync rate of the vga mode doom used .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "ah , that makes a lot more sense ,",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "thank you .",
+   "sentiment": "+",
+   "act": "T"
+  }
+ ],
+ [
+  {
+   "utterance": "it's kind of interesting to see people attempting to police a free service and asking for money to do so . loooool",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "you're right ,",
+   "sentiment": "*",
+   "act": "A"
+  },
+  {
+   "utterance": "people should labor for you for free .",
+   "sentiment": "-",
+   "act": "S"
+  },
+  {
+   "utterance": "i'll assume you aren't supporting your instance's admin ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "if you can monetize a free service , have at it . supporting the hosting fees is completely different than paying the admin .",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "worst possible thing that could happen when your out and your waiting for your so . <url>",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "which pen did you break ?",
+   "sentiment": "-",
+   "act": "O"
+  },
+  {
+   "utterance": "i ran out of lead ...",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "oh , well color me stoopid.which pencil is that and what lead size ?",
+   "sentiment": "-",
+   "act": "O"
+  },
+  {
+   "utterance": "its 0.7 size lead . ugly green comfortmate grip mechanical pencil . i did not come prepared 😣",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "have you ever looked at the staedtler 2.0 mm lead holders ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "they are like a real pencil ( you actually need a sharpener ) but refillable . i have 2 loaded up with 2b and 2h and swear by ' em . far better than your typical mechanical .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i have one of those .",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "but tbh i didnt really like using it ... mechanical was always my go to . but to each their own . lol",
+   "sentiment": "-",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "good morning 🌸",
+   "sentiment": "*",
+   "act": "H"
+  },
+  {
+   "utterance": "g'morning",
+   "sentiment": "*",
+   "act": "H"
+  },
+  {
+   "utterance": "how are you ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "terrible anxious honestly .",
+   "sentiment": "-",
+   "act": "W"
+  },
+  {
+   "utterance": "i hope you're better .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i'm sorry to hear that .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "i'm doing okay so far .",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "hope you feel better soon",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "thank you ❤ ️",
+   "sentiment": "+",
+   "act": "T"
+  }
+ ],
+ [
+  {
+   "utterance": "fite me",
+   "sentiment": "-",
+   "act": "R"
+  },
+  {
+   "utterance": "ur on mastodon",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "only because #pleroma isn't finished yet and i didn't want to run lamp shit .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "i used to be on social.heldscal.la",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "( not to be confused with the much more evil social.headsca.la ) and loadaverage before that ( and iamover18.org before that )",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "installing php and nginx isn't magic",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "she also wanted an ios app .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "there aren't any for gs .",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "hahaha fn dropped abandon your smartphones you fucking normies",
+   "sentiment": "-",
+   "act": "R"
+  },
+  {
+   "utterance": "or i'll have the cia drone you",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "i'm build a zero terminal some day to replace my smartphone",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "meanwhile i'm at the train station with my x201 creating sweet ass melodies in fl studio while waiting for the train",
+   "sentiment": "+",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "oh thank / god / spent last night too hot to sleep and after eventually nodding off whilst watching babylon 5",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "it's dropped a whole 4 degreesthis is far more tolerable",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "4c or 4f ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "non freedom units ( so c )",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "i just spent some time unsubbing from podcasts and they're still out of control",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "send help <url>",
+   "sentiment": "-",
+   "act": "R"
+  },
+  {
+   "utterance": "your phone is loooong",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "google slides !",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i will give it a try ,",
+   "sentiment": "+",
+   "act": "E"
+  },
+  {
+   "utterance": "thank you ;)",
+   "sentiment": "+",
+   "act": "T"
+  }
+ ],
+ [
+  {
+   "utterance": "hum ... this site uses ads in the middle of its articles content .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "i find it intrusive . ad services started this war with popups , tracking , autoplaying videos ...",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "this website is just * * horrible * * …",
+   "sentiment": "-",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "tried aizu programming challenges , and it was ... interesting",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "what language did you use ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "i was going to use perl but there is no option for perl so i went with c . their c complier haa some weird flags on it because i could do this for my for loopfor ( int x = 1 ; x < = max_x ; x + + )",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "[ trips ] me : you know this wouldn't happen if capitalism -",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "yo what if every modern anti-black talking point derived from some neebish racist commentator / coin ass nigga watching bet comic view",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "i wouldn't be surprised",
+   "sentiment": "-",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "what is the \" theory \" <mention> has that john referred to when adam talking about old-time doctors typically treating women with instruments of a \" vibratory nature \" ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "are you talking about hysteria ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "or the idea that the hysteria was caused by ' wandering uterus '",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "did somebody say akashi <url>",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "ghhyeagh hell yheah boiygehyeaj",
+   "sentiment": "+",
+   "act": "A"
+  },
+  {
+   "utterance": "he's got bondage underneath",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i genuinely considered kinning a vocaloid dont fuck with me about this matter",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "i hav 3 vocaloid kins ive been tryin 2 get rid of them but they wont go",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "i wanted to kin yuezheng ling for the longest time but uhhhh",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "i can feel my teeth hurting just from you talking about it hhhhn",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "nah like my teeth r sensitive too but idk why i still do it",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "im sorry",
+   "sentiment": "-",
+   "act": "M"
+  }
+ ],
+ [
+  {
+   "utterance": "i'm still unsure if i should keep my sega cd or not",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "absolutely",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "can i burn sega cd games to a blank disk and have then just work ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "tbh the only reason i have a sega cd is so i can play snatcher on it someday",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "i really hate having allergies need to move to a new locale that i'm not allergic to",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "move to en-ca",
+   "sentiment": "*",
+   "act": "S"
+  },
+  {
+   "utterance": "ye the shortlist is oregon , washington , and california",
+   "sentiment": "+",
+   "act": "A"
+  }
+ ],
+ [
+  {
+   "utterance": "what is the \" theory \" <mention> has that john referred to when adam talking about old-time doctors typically treating women with instruments of a \" vibratory nature \" ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "are you talking about hysteria ?",
+   "sentiment": "*",
+   "act": "Q"
+  },
+  {
+   "utterance": "or the idea that the hysteria was caused by ' wandering uterus '",
+   "sentiment": "*",
+   "act": "W"
+  },
+  {
+   "utterance": "it sounded like an \" inside joke \" from a previous show or private conversation . given the nature of <mention> ' s enjoyment at the thought , i too am intrigued .",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "okay , what's the thing with the pineapples ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "one night <mention> started giving them to everyone . like literally everyone . ( there where a lot less people around then ) since then it's been a thing . often used as a welcome getting to new users .",
+   "sentiment": "+",
+   "act": "W"
+  },
+  {
+   "utterance": "thank you both ! 🍍 🍍",
+   "sentiment": "+",
+   "act": "T"
+  },
+  {
+   "utterance": "i love the history of the pineapple as a welcome gift . <url>",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "that's pretty great !",
+   "sentiment": "+",
+   "act": "I"
+  },
+  {
+   "utterance": "i had no idea !",
+   "sentiment": "*",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "oh neat . i'm probably polish too .",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "im sorry",
+   "sentiment": "-",
+   "act": "M"
+  },
+  {
+   "utterance": "why are you apologizing ?",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "if i'm a ( partially ) polish girl then i get to be like these girls : <url>",
+   "sentiment": "*",
+   "act": "I"
+  },
+  {
+   "utterance": "its joke but also i dont like this country much",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "semi official shuttering of the academy ?",
+   "sentiment": "-",
+   "act": "Q"
+  },
+  {
+   "utterance": "never i'm just awful at remembering things",
+   "sentiment": "-",
+   "act": "W"
+  }
+ ],
+ [
+  {
+   "utterance": "it'd be cool if the geek code were updated for today's world .",
+   "sentiment": "+",
+   "act": "S"
+  },
+  {
+   "utterance": "everything on it is from back in the 90s when people actually used usenet",
+   "sentiment": "-",
+   "act": "I"
+  },
+  {
+   "utterance": "there has been a coupole of attempts , but nothing really caught on .",
+   "sentiment": "-",
+   "act": "I"
+  }
+ ],
+ [
+  {
+   "utterance": "but then how can i talk 2 takeshitakenji :/",
+   "sentiment": "*",
+   "act": "O"
+  },
+  {
+   "utterance": "idk telegram vk email gnusocial xmpp there's tons of options where your cousin can't tag you in images",
+   "sentiment": "*",
+   "act": "W"
+  }
+ ]
+]
