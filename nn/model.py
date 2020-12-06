@@ -157,12 +157,6 @@ class TaggingAgent(nn.Module):
             assert len(pad_adj_id_list[dial_i]) == len(pad_adj_full_list[dial_i])
             for i in range(len(pad_adj_full_list[dial_i])):
                 full = pad_adj_full_list[dial_i][i]
-                # identify = pad_adj_id_list[dial_i][i]
-                # if self._remove_history:
-                #     pad_utt_up = identify + full
-                # elif self._remove_interaction:
-                #     pad_utt_up = full + identify
-                # else:
                 pad_utt_up = full + full
                 pad_adj_R_list[-1].append(pad_utt_up)
 

@@ -17,7 +17,9 @@ parser.add_argument("--pretrained_model", "-pm", type=str, default="none",
                     choices=["none", "bert", "roberta", "xlnet", "albert", "electra"],
                     help="choose pretrained model, default is none.")
 parser.add_argument("--linear_decoder", "-ld", action="store_true", default=False,
-                    help="Using Linear decoder to get category")
+                    help="Using Linear decoder to get category.")
+parser.add_argument("--bert_learning_rate", "-blr", type=float, default=1e-5,
+                    help="The learning rate of all types of pretrain model.")
 # Basic Hyper parameter
 parser.add_argument("--data_dir", "-dd", type=str, default="dataset/mastodon")
 parser.add_argument("--save_dir", "-sd", type=str, default="./save")
@@ -31,7 +33,6 @@ parser.add_argument("--gat_layer", "-gl", type=int, default=2)
 parser.add_argument("--embedding_dim", "-ed", type=int, default=128)
 parser.add_argument("--hidden_dim", "-hd", type=int, default=256)
 parser.add_argument("--dropout_rate", "-dr", type=float, default=0.1)
-parser.add_argument("--bert_learning_rate", "-blr", type=float, default=1e-5)
 parser.add_argument("--gat_dropout_rate", "-gdr", type=float, default=0.1)
 
 args = parser.parse_args()
