@@ -28,7 +28,7 @@ else:
 if torch.cuda.is_available():
     model = model.cuda()
 
-test_sent_f1, sent_r, sent_p, test_act_f1, act_r, act_p, fine, test_time = evaluate(
+test_sent_f1, sent_r, sent_p, test_act_f1, act_r, act_p, test_time = evaluate(
         model, data_house.get_iterator("test", args.batch_size, False), metric)
 print("On test, sentiment f1: {:.4f} (r: {:.4f}, p: {:.4f}), act f1: {:.4f} (r: {:.4f}, p: {:.4f})"
       .format(test_sent_f1, sent_r, sent_p, test_act_f1, act_r, act_p))

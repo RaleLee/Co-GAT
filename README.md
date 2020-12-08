@@ -3,12 +3,8 @@ This repository contains the PyTorch implementation of the paper:
 
 **Co-GAT: A Co-Interactive Graph Attention Network for Joint Dialog Act
 Recognition and Sentiment Classification**. 
-[Libo Qin](http://ir.hit.edu.cn/~lbqin/), Zhouyang Li, 
-[Wanxiang Che](http://ir.hit.edu.cn/~car/chinese.htm), 
-Minheng Ni, [Ting Liu](http://ir.hit.edu.cn/~liuting/). 
+Libo Qin, Zhouyang Li, Wanxiang Che, Minheng Ni, Ting Liu. 
 ***AAAI 2021***. [[PDF]]
-
-## Abstract
 
 ## Architecture
 
@@ -87,6 +83,8 @@ For loading the best model and get the results reported in our paper. Please use
 ## Citation
 If you use any source codes included in this repo in your work, please cite the following paper. 
 The bibtex are listed below:
+
+[bibtex]
 
 ## Issues/PRs/Questions 
 Feel free to contact [me](mailto:zhouyangli@ir.hit.edu.cn) for any questions or create issues/prs.

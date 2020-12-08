@@ -181,22 +181,6 @@ class ReferMetric(object):
         f1 = (f1pos + f1neg) / 2.
         return f1, avg_r / 2.0, avg_p / 2.0
 
-    @staticmethod
-    def fine_grain_act_f1_table(pred_list, gold_list, act_vocab):
-        nok, nrec, ntot = ReferMetric._base_statistic(
-            pred_list, gold_list, len(act_vocab)
-        )
-
-        score_dict = {}
-        for j in range(0, len(act_vocab)):
-            pr = float(nok[j]) / float(nrec[j]) if nrec[j] > 0.0 else 0.0
-            re = float(nok[j]) / float(ntot[j]) if ntot[j] > 0.0 else 0.0
-            f1 = 2. * pr * re / (pr + re) if pr + re > 0.0 else 0.0
-
-            act_name = act_vocab.get(j)
-            score_dict[act_name] = f1
-        return score_dict
-
 
 class NormalMetric(object):
     """

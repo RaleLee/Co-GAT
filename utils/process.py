@@ -71,7 +71,6 @@ def evaluate(model, data_iter, normal_metric):
 
     sent_f1, sent_r, sent_p = reference.validate_emot(pred_sent, gold_sent)
     act_f1, act_r, act_p = reference.validate_act(pred_act, gold_act)
-    fine_grain = model.show_fine_grain_act_performance(pred_act, gold_act)
 
     time_con = time.time() - time_start
-    return sent_f1, sent_r, sent_p, act_f1, act_r, act_p, fine_grain, time_con
+    return sent_f1, sent_r, sent_p, act_f1, act_r, act_p, time_con

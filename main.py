@@ -70,9 +70,9 @@ for epoch in range(0, args.num_epoch + 1):
                                       10.0, args.bert_learning_rate, args.pretrained_model)
     print("[Epoch{:4d}], train loss is {:.4f}, cost {:.4f} s.".format(epoch, train_loss, train_time))
 
-    dev_sent_f1, _, _, dev_act_f1, _, _, _, dev_time = evaluate(
+    dev_sent_f1, _, _, dev_act_f1, _, _, dev_time = evaluate(
         model, data_house.get_iterator("dev", args.batch_size, False), metric)
-    test_sent_f1, sent_r, sent_p, test_act_f1, act_r, act_p, fine, test_time = evaluate(
+    test_sent_f1, sent_r, sent_p, test_act_f1, act_r, act_p, test_time = evaluate(
         model, data_house.get_iterator("test", args.batch_size, False), metric)
 
     print("On dev, sentiment f1: {:.4f}, act f1: {:.4f}".format(dev_sent_f1, dev_act_f1))

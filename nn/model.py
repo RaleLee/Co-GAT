@@ -63,7 +63,6 @@ class TaggingAgent(nn.Module):
     def set_load_best_missing_arg(self, pretrained_model):
         self._pretrained_model = pretrained_model
         self._encoder.add_missing_arg(pretrained_model)
-        self._decoder.add_missing_arg(2)
 
     def set_load_best_missing_arg_mastodon(self, pretrained_model, layer=2):
         self._pretrained_model = pretrained_model
@@ -305,7 +304,3 @@ class TaggingAgent(nn.Module):
             F.log_softmax(flat_pred_a, dim=-1), var_act
         )
         return sent_loss + act_loss
-
-    def show_fine_grain_act_performance(self, pred_act, gold_act):
-        result = ReferMetric.fine_grain_act_f1_table(pred_act, gold_act, self._act_vocab)
-        return json.dumps(result, indent=True, ensure_ascii=True)
