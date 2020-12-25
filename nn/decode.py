@@ -20,7 +20,7 @@ class RelationDecoder(nn.Module):
         self._sent_layer_dict = nn.ModuleDict()
         self._act_layer_dict = nn.ModuleDict()
 
-        # First with a LSTM layer to get the initial representation of SC and DAR
+        # First with a BiLSTM layer to get the initial representation of SC and DAR
         self._sent_layer_dict.add_module(
                 str(0), BiLSTMLayer(hidden_dim, dropout_rate)
             )
@@ -53,8 +53,8 @@ class RelationDecoder(nn.Module):
     
         sent_r, act_r = self._relate_layer(res_s, res_a, len_list, adj_re)
 
-        # stack num layer can be change here.
-        # BUT we ONLY stack 1 layer in our experiment.
+        # stack num layer CAN NOT be change here.
+        # we ONLY stack 1 layer in our experiment.
         # We stack different GAT layer in relation.py
         # you can change gat_layer parameter to control the number of gat layer.
         sent_h = self._sent_layer_dict[str(1)](sent_r)

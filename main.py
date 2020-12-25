@@ -28,8 +28,10 @@ parser.add_argument("--num_epoch", "-ne", type=int, default=300)
 parser.add_argument("--random_state", "-rs", type=int, default=0)
 
 # Model Hyper parameter
-parser.add_argument("--num_layer", "-nl", type=int, default=2)
-parser.add_argument("--gat_layer", "-gl", type=int, default=2)
+parser.add_argument("--num_layer", "-nl", type=int, default=2,
+                    help="This parameter CAN NOT be modified! Please use gat_layer to set the layer num of gat")
+parser.add_argument("--gat_layer", "-gl", type=int, default=2,
+                    help="Control the number of GAT layers. Must be between 2 and 4.")
 parser.add_argument("--embedding_dim", "-ed", type=int, default=128)
 parser.add_argument("--hidden_dim", "-hd", type=int, default=256)
 parser.add_argument("--dropout_rate", "-dr", type=float, default=0.1)

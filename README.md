@@ -1,10 +1,10 @@
 # Co-GAT
 This repository contains the PyTorch implementation of the paper: 
 
-**Co-GAT: A Co-Interactive Graph Attention Network for Joint Dialog Act
-Recognition and Sentiment Classification**. 
+**[Co-GAT: A Co-Interactive Graph Attention Network for Joint Dialog Act
+Recognition and Sentiment Classification](https://arxiv.org/abs/2012.13260)**. 
 Libo Qin, Zhouyang Li, Wanxiang Che, Minheng Ni, Ting Liu. 
-***AAAI 2021***. [[PDF]]
+***AAAI 2021***.
 
 ## Architecture
 
@@ -17,7 +17,7 @@ Our code relies on Python 3.6 and following libraries:
 - numpy==1.19.1
 - tqdm==4.49.0
 - scikit_learn==0.23.2
-- pytorch-pretrained-bert==0.6.2 (for loading the best model)
+- pytorch-pretrained-bert==0.6.2 (used to load the best model provided)
 
 ## Run 
 We will teach you how to run our code step by step.
@@ -57,7 +57,7 @@ You can write command like this:
 ```
 
 
-### Loading the Best model
+### Loading the Best model provided
 Please note that 
 1. Whether using a pre-trained model or not, our code will execute word piece padding every time it runs.
     And we use the pytorch-pretrained-bert as the pretrained model library when we conducted the main experiment. 
@@ -84,7 +84,16 @@ For loading the best model and get the results reported in our paper. Please use
 If you use any source codes included in this repo in your work, please cite the following paper. 
 The bibtex are listed below:
 
-[bibtex]
+<pre>
+@misc{qin2020cogat,
+      title={Co-GAT: A Co-Interactive Graph Attention Network for Joint Dialog Act Recognition and Sentiment Classification}, 
+      author={Libo Qin and Zhouyang Li and Wanxiang Che and Minheng Ni and Ting Liu},
+      year={2020},
+      eprint={2012.13260},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+</pre>
 
 ## Issues/PRs/Questions 
 Feel free to contact [me](mailto:zhouyangli@ir.hit.edu.cn) for any questions or create issues/prs.
